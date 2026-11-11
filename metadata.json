@@ -1,0 +1,6 @@
+{
+  "name": "Gemini API Key Guide & Tester",
+  "description": "Comprehensive guide to acquiring, managing, and securely utilizing Google Gemini API keys, complete with an interactive live connectivity test and SDK code generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
